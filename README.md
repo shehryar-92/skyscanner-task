@@ -1,24 +1,16 @@
-# skyscanner-task
 # Skyscanner Date Picker
 
-A simple reservation date picker page built with React.
+A reservation date picker built with React as part of the Skyscanner virtual experience program.
 
-## Features
-- Header displaying "Reservation Date"
-- Interactive date picker calendar
-- Continue button
+## Project
+The app displays a "Reservation Date" header, an interactive date picker, and a Continue button.
 
-## How to run locally
-
-1. Clone the repo
-2. Navigate into the project folder: `cd my-app`
-3. Install dependencies: `npm install`
-4. Start the app: `npm start`
-5. Open `localhost:3000` in your browser
+## How to run
+1. `cd my-app`
+2. `npm install`
+3. `npm start`
+4. Open `localhost:3000`
 
 ## Tech Stack
 - React
 - CSS (inline styles)
-
-## Testing
-Run `npm test` to execute the test suite.
